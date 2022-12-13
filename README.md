@@ -8,6 +8,10 @@
 
 作者四年前端经验，之前在中大厂基础架构组任职，主攻工程化相关领域，目前在某 Web3 公司任职全栈工程师。
 
-## 直播时间：
+## 涉及资料
 
-- 22.12.13 晚上 8.30，初始化项目，介绍技术栈
+- 项目初始化
+  - [Next.js 文档](https://nextjs.org/)
+  - [Nest.js 文档](https://docs.nestjs.com/first-steps)
+  - [React-query 文档](https://react-query-v3.tanstack.com/overview)
+  - [Vanilla-extract 文档](https://vanilla-extract.style/documentation/getting-started)
