@@ -8,9 +8,9 @@
 
 作者四年前端经验，之前在中大厂基础架构组任职，主攻工程化相关领域，目前在某 Web3 公司任职全栈工程师。
 
-## 涉及资料
+## 视频及相关资料
 
-- 项目初始化
+- [项目初始化](https://www.bilibili.com/video/BV1JA41197Z4/?spm_id_from=333.999.0.0&vd_source=364fc2418dd63e22bb78bf58fc2b962f)
   - [Next.js 文档](https://nextjs.org/)
   - [Nest.js 文档](https://docs.nestjs.com/first-steps)
   - [React-query 文档](https://react-query-v3.tanstack.com/overview)
