@@ -8,6 +8,12 @@
 
 作者四年前端经验，之前在中大厂基础架构组任职，主攻工程化相关领域，目前在某 Web3 公司任职全栈工程师。
 
+## 最新直播时间
+
+![](./image/WechatIMG157.jpeg)
+
+大家可以 B 站扫码预约，教学文档稍后上传。
+
 ## 视频及相关资料
 
 - [项目初始化](https://www.bilibili.com/video/BV1JA41197Z4/?spm_id_from=333.999.0.0&vd_source=364fc2418dd63e22bb78bf58fc2b962f)
