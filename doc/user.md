@@ -19,7 +19,7 @@
 - address，用户钱包地址，string 类型
 - created_at，创建时间，timestamp 类型
 - updated_at，更新时间，timestamp 类型
-- 索引相关：mobile 和 address
+- 唯一索引 mobile，保证高并发下数据的唯一性，索引 address
 
 数据库操作我们使用 [typeorm](https://typeorm.bootcss.com/)，这是一个非常好用的 ORM 库，可以让我们不用写 SQL 语句就可以操作数据库。
 
