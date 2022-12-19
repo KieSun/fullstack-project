@@ -10,14 +10,8 @@
 
 ## 最新直播时间
 
-![](./image/WechatIMG157.jpeg)
-
-大家可以 B 站扫码预约，查看[教学文档](./doc/user.md)预习。
+**12.20 晚上 8 点**
 
 ## 视频及相关资料
 
-- [项目初始化](https://www.bilibili.com/video/BV1JA41197Z4/?spm_id_from=333.999.0.0&vd_source=364fc2418dd63e22bb78bf58fc2b962f)
-  - [Next.js 文档](https://nextjs.org/)
-  - [Nest.js 文档](https://docs.nestjs.com/first-steps)
-  - [React-query 文档](https://react-query-v3.tanstack.com/overview)
-  - [Vanilla-extract 文档](https://vanilla-extract.style/documentation/getting-started)
+[视频地址](https://www.bilibili.com/video/BV1JA41197Z4/?vd_source=364fc2418dd63e22bb78bf58fc2b962f#reply306231837)
